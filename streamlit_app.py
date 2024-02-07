@@ -92,3 +92,6 @@ if streamlit.button('Add a Fruit to the List'):
 
 # streamlit.text("The fruit load list contains:")  # ("Hello from Snowflake:")
 # streamlit.text(my_data_row)
+-- 
+br, 
+
